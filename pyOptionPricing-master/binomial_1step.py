@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-22 16:12:29
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-22 16:12:29
-
 
 from math import *
 
