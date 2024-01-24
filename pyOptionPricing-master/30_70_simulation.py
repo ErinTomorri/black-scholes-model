@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-08 23:03:49
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-08 23:54:21
-
 import numpy as np
 import random
 
