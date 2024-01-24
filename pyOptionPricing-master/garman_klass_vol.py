@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-02 18:28:28
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-02 19:09:29
-
 from pandas import np
 import pandas_datareader.data as web
 
