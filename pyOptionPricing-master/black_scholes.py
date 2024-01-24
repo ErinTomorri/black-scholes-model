@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-02 18:28:28
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-04 00:27:52
 
 from __future__ import division
 from scipy.stats import norm
