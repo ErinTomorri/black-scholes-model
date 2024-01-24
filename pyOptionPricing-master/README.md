@@ -28,11 +28,6 @@ if __name__ == "__main__":
 ### Garman-Klass Historical Volatility
 ![alt tag](image/Garman-Klass_historical_vol.jpg)
 ```python
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-02 18:28:28
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-02 19:09:29
 
 from pandas import np
 import pandas_datareader.data as web
@@ -66,11 +61,7 @@ if __name__ == "__main__":
 ### Black-Scholes Model
 ![alt tag](image/blackscholes.jpg)
 ```python
-# -*- coding: utf-8 -*-
-# @Author: boyac
-# @Date:   2016-05-02 18:28:28
-# @Last Modified by:   boyac
-# @Last Modified time: 2016-05-04 00:27:52
+
 
 from __future__ import division
 from scipy.stats import norm
