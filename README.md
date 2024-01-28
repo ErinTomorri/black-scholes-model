@@ -2,7 +2,7 @@
 Created a trading algorithm to trade DOW contracts using Black-Scholes binary option pricing. Automated trades using the Alpaca API, along with data mining from various webpages for live Index Pricing and Volatility using HTML and XML.
 
 ### Traditional Historical Volatility Calculation
-![alt tag](image/classical_vol.jpg)
+![alt tag](pyOptionPricing-master/image/classical_vol.jpg)
 
 ```
 from pandas import np
@@ -28,7 +28,7 @@ if __name__ == "__main__":
 
 
 ### Garman-Klass Historical Volatility
-![alt tag](image/Garman-Klass_historical_vol.jpg)
+![alt tag](pyOptionPricing-master/image/Garman-Klass_historical_vol.jpg)
 ```python
 
 from pandas import np
@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 
 ### Black-Scholes Model
-![alt tag](image/blackscholes.jpg)
+![alt tag](pyOptionPricing-master/image/blackscholes.jpg)
 ```python
 
 
@@ -100,6 +100,6 @@ if __name__ == "__main__":
 ```
 
 ### Exotic Options Example: Shout Options by Monte Carlo Approximation
-![alt tag](image/MC2.png)
-![alt tag](image/Shout2.png)
+![alt tag](pyOptionPricing-master/image/MC2.png)
+![alt tag](pyOptionPricing-master/image/Shout2.png)
 
